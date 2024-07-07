@@ -59,6 +59,14 @@ The logo features a stylized "P" shape, representing the initial letter of the c
 
 ## Usage
 The designed P symbol logo is primarily used for commercial and branding purposes. However, in cases where space or official contexts allow, the full logo including the remaining portion of the company name may be used. This flexibility ensures the logo's adaptability to various formats while maintaining visual coherence and representing Polaris's commitment to innovation and advanced technology.
+
+![3D office wall logo mockup with dark gray wall](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/7994f58e-d04a-43a7-83f7-34bea17266b8)
+
+![467c869a-a3d2-4dd4-a619-1821b29026d7](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/5374b3d5-51ea-4fd2-9b1b-215b8165cd51)
+
+![3D logo mockup on black wall office room](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/2b304ee5-154b-42a0-a294-fcc36e257cfd)
+
+
 ## Conclusion
 The Polaris logo encapsulates the essence of the company's mission and values, combining symbolism of leadership, innovation, and advanced technology in a visually compelling design.
 

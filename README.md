@@ -26,6 +26,8 @@ By embodying the steadfast and guiding qualities of Polaris, businesses can cult
 
 # Polaris Logo Description
 
+![Task 2](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/dca8d6c9-ea5e-4946-b244-316abaf92dea)
+
 ## Overview
 The Polaris logo is a symbolic representation that embodies the company's core values and vision through its design elements.
 

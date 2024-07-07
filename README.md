@@ -34,11 +34,28 @@ The Polaris logo is a symbolic representation that embodies the company's core v
 ## Symbolism and Elements
 The logo features a stylized "P" shape, representing the initial letter of the company name, Polaris. Within this shape:
 - **Big Star**: At the center of the logo is a prominent big star, symbolizing Polaris, one of the brightest stars in the sky. This star signifies prominence and leadership.
+
+![Picsart_24-07-07_23-13-35-299](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/beafa87e-1289-4c1a-adba-1ca4bf8bed0f)
+
 - **Small Stars**: Surrounding the big star are smaller stars, highlighting the constellation effect and representing support and synergy.
+
+![Picsart_24-07-07_23-15-29-784](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/193f65d0-ea2e-4554-ba62-b68aecadc078)
+
 - **Sparkle Star**: The overall shape of the logo forms a sparkle star, commonly associated with AI solutions, reflecting Polaris's expertise in AI-driven technologies.
+
+![Picsart_24-07-07_23-23-34-647](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/40c571c2-22de-4121-a7dc-a4a0cbc9725c)
+
 - **Gear Structure**: In the upper portion of the "P", there is a gear-like structure, symbolizing hardware and robotics, showcasing Polaris's commitment to advanced technology and innovation.
+- 
+![Picsart_24-07-07_23-20-26-798](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/e9026617-6770-4d83-bb6a-92ba6866e478)
+
 - **"I" Letter Formation**: The stand of the "P" forms an "I" letter, emphasizing innovation, a core value of Polaris.
+
+![Picsart_24-07-07_23-18-52-322](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/ff06902b-6121-443a-8a04-5a7cafb93951)
+
 - **"3 U"s Representation**: Above the "P", a subtle "U" shape is formed, symbolizing "Upgrading the Universe through Unique Innovations", the company's tagline.
+
+![Picsart_24-07-07_23-35-12-086](https://github.com/Shib-Sankar-Das/SCT_GD_2/assets/136646947/0bf85908-ee99-48b3-b505-eccb86c2e63b)
 
 ## Usage
 The designed P symbol logo is primarily used for commercial and branding purposes. However, in cases where space or official contexts allow, the full logo including the remaining portion of the company name may be used. This flexibility ensures the logo's adaptability to various formats while maintaining visual coherence and representing Polaris's commitment to innovation and advanced technology.
